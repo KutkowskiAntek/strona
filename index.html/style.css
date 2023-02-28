@@ -1,0 +1,231 @@
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+.CSG{
+    color: black;
+}
+.logo{
+    width:90px;
+  height: 90px;
+  position:absolute;
+  left: 40px;
+  top: 15px;
+  border-radius: 50%;
+  background-color: #545353;
+}
+.logo:hover{
+    box-shadow: 2px 3px 3px black;
+}
+.title{
+    border: 2px solid rgb(162, 161, 161);
+    background-color:rgb(162, 161, 161) ;
+    height: 100px;
+    width: 100%;
+}
+.name{
+    position: absolute;
+    left: 390px;
+    top: 17px;
+    color: rgb(0, 0, 0);
+}
+.menu{
+    background-color: rgb(162, 161, 161);
+    position: absolute;
+    height: 700px;
+    width: 150px;
+    top: 130px;
+}
+.skins{
+    color:rgb(0, 0, 0)
+}
+.help{
+    color: black;
+}
+.pod{
+    background-color:rgb(162, 161, 161) ;
+    position:absolute;
+    top:130px ;
+    left: 180px;
+    height: 900px;
+    width: 1030px;
+}
+.feet{
+    background-color:#545353 ;
+    position: absolute;
+    top: 1100px;
+    height: 200px;
+    width: 99%;
+}
+.gskin{
+    border: 4px solid #545353;
+    position: absolute;
+    top:180px ;
+    left: 238px;
+    height: 300px;
+    width: 900px;
+}
+.one{
+    background-color:#545353 ;
+    position: absolute;
+    top:30px ;
+    left:60px;
+    height:200px ;
+    width: 200px;
+    border-radius: 20%;
+}
+.gold{
+    width: 150px;
+    height: 140px;
+}
+.goldn{
+    position: relative;
+    top:-10px;
+}
+.two{
+    background-color:#545353 ;
+    position: absolute;
+    top:30px ;
+    left:350px;
+    height:200px ;
+    width: 200px;
+    border-radius: 20%;
+}
+.rent{
+    width: 150px;
+    height: 140px;
+}
+.rentn{
+    position: relative;
+    top:-10px;
+}
+.three{
+    background-color:#545353 ;
+    position: absolute;
+    top:30px ;
+    left:640px;
+    height:200px ;
+    width: 200px;
+    border-radius: 20%;
+}
+.bunt{
+    width: 150px;
+    height: 140px;
+}
+.buntn{
+    position: relative;
+    top:-10px;
+}
+.gagent{
+    border: 4px solid #545353;
+    position: absolute;
+    top:600px ;
+    left: 238px;
+    height: 300px;
+    width: 900px;
+}
+.four{
+    background-color:#545353 ;
+    position: absolute;
+    top:30px ;
+    left:60px;
+    height:200px ;
+    width: 200px;
+    border-radius: 20%;
+}
+.darryl{
+    width: 150px;
+    height: 140px;
+}
+.darryln{
+    position: relative;
+    top:-10px;
+}
+.five{
+    background-color:#545353 ;
+    position: absolute;
+    top:30px ;
+    left:350px;
+    height:200px ;
+    width: 200px;
+    border-radius: 20%;
+}
+.gogle{
+    width: 150px;
+    height: 140px;
+}
+.goglen{
+    position: relative;
+    top:-18px;
+}
+.six{
+    background-color:#545353 ;
+    position: absolute;
+    top:30px ;
+    left:640px;
+    height:200px ;
+    width: 200px;
+    border-radius: 20%;
+}
+.sally{
+    width: 150px;
+    height: 140px;
+}
+.sallyn{
+    position: relative;
+    top:-10px;
+}
+.skip1{
+    background-color:#545353 ;
+    position: absolute;
+    top:240px ;  
+    left:135px ;  
+    height: 20px;
+    width: 51px;
+    border-radius: 10%;
+}
+.skip2{
+    background-color:#545353 ;
+    position: absolute;
+    top:240px ;  
+    left:422px ;  
+    height: 20px;
+    width: 51px;
+    border-radius: 10%;
+}
+.skip3{
+    background-color:#545353 ;
+    position: absolute;
+    top:240px ;  
+    left:718px ;  
+    height: 20px;
+    width: 51px;
+    border-radius: 10%;
+}
+.skip4{
+    background-color:#545353 ;
+    position: absolute;
+    top:240px ;  
+    left:135px ;  
+    height: 20px;
+    width: 51px;
+    border-radius: 10%;
+}
+.skip5{
+    background-color:#545353 ;
+    position: absolute;
+    top:240px ;  
+    left:422px ;  
+    height: 20px;
+    width: 51px;
+    border-radius: 10%;
+}
+.skip6{
+    background-color:#545353 ;
+    position: absolute;
+    top:240px ;  
+    left:718px ;  
+    height: 20px;
+    width: 51px;
+    border-radius: 10%;
+}
